@@ -1,0 +1,8 @@
+{
+        "almacenes"   : [{
+            "id"      : "1", "foto"      : "http://www.inmobiliariamanquehue.cl/img/piedra-roja/losmontes/casa-132.jpg", "nombre"      : "gato", "edad"      : "Cumbre", "fecha_nac"      : "Calle 13 N°2", "Colegio"      : "1.000.000", "Ciudad"      : "130.000", "Programa"      : "3 habitaciones", "valor"      : "2 baños"
+        }, {
+            "id"      : "2", "foto"      : "https://i.blogs.es/8e8f64/lo-de-que-comprar-una-casa-es-la-mejor-inversion-hay-generaciones-que-ya-no-lo-ven-ni-de-lejos---1/450_1000.jpg", "nombre"      : "Bucaramanga", "edad"      : "Real de minas", "fecha_nac"      : "Carrera 1 N°45", "Colegio"      : "1.200.000", "Ciudad"      : "150.000", "Programa"      : "2 habitaciones", "valor"      : "1 baños"
+        }
+    ]
+}
